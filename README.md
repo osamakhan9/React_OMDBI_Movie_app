@@ -1,3 +1,58 @@
+Welcome To Our Project👋
+
+# Project Name - OMDBI_Movie_app
+
+<a href="#"><img width="15%" height="auto" src="https://thumbs.dreamstime.com/b/movie-illustration-logo-vector-design-film-178252125.jpg"/></a>
+
+# Deploy Link Here
+https://react-omdbi-movie-app.vercel.app/register
+ <hr>
+
+
+### Project Holders Indivalual
+
+## About
+
+It's my major project OMDBI_Movie_app is an online Rating check and check trinding Movie. implemented features of an Movie , smooth, smooth UI, user authentication.
+
+## Tech Stacks used:- 
+
+<h4 align="center">Frontend:</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+</p>
+
+
+<h4 align="center">Backend:</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+</p>
+
+## Project Screenshots
+
+![image](https://github.com/osamakhan9/React_OMDBI_Movie_app/assets/101393695/88c8e623-30bc-46d1-8d09-dcbf787a5326)
+
+![image](https://github.com/osamakhan9/React_OMDBI_Movie_app/assets/101393695/86f79a11-e54e-4e55-92b1-b9d4e0e31d20)
+
+![image](https://github.com/osamakhan9/React_OMDBI_Movie_app/assets/101393695/be7f6cd4-7e19-4e65-91c7-3241a9c712a3)
+![image](https://github.com/osamakhan9/React_OMDBI_Movie_app/assets/101393695/36a223d4-d15c-41b0-b6b4-14529c4330e7)
+
+![image](https://github.com/osamakhan9/React_OMDBI_Movie_app/assets/101393695/b9ed4952-1cc7-4d5c-a160-75b2c6222129)
+
+## Getting Started
+
+This project was built using React, Chakra UI, HTML, CSS, JavaScript, Rest API . It is an e-commerce web application and for running on your local environment you should follow these guidelines.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -29,42 +84,28 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Tools used on this project
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Visual Studio Code
+- React-JS template
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you want to contact me, you can reach me through below handles. <br />
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+© 2022 Mohammad osama khan
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Give a ⭐️ if you like this project!
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
