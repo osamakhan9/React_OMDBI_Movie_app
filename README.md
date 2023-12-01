@@ -47,6 +47,13 @@ It's my major project OMDBI_Movie_app is an online Rating check and check trindi
 
 ![image](https://github.com/osamakhan9/React_OMDBI_Movie_app/assets/101393695/b9ed4952-1cc7-4d5c-a160-75b2c6222129)
 
+# Demo video
+
+
+https://github.com/osamakhan9/React_OMDBI_Movie_app/assets/101393695/58d5a858-3a34-40a2-ad86-9d93b45eeb34
+
+
+
 ## Getting Started
 
 This project was built using React, Chakra UI, HTML, CSS, JavaScript, Rest API . It is an e-commerce web application and for running on your local environment you should follow these guidelines.
